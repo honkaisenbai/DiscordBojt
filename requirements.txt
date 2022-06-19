@@ -7,8 +7,6 @@ numpy
 sympy
 asyncio
 requests
-random
-json
 googletrans==3.1.0a0
 colorama
 Pillow==9.1.0
