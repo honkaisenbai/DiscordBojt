@@ -1,0 +1,14 @@
+nextcord==2.0.0a10
+nextcord-ext-activities==2022.4.2
+animec==0.4
+humanfriendly==10.0
+qrcode==7.3.1
+numpy
+sympy
+asyncio
+requests
+random
+json
+googletrans==3.1.0a0
+colorama
+Pillow==9.1.0

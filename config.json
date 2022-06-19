@@ -1,0 +1,18 @@
+{
+    "token": "OTEzNzAwODAzNjI4Mzg0MzA2.YaCULw.vPArxyCAxb0GBW7ok_OcnpA7Gko",
+    "2token": "OTU4OTEwNDE5ODczOTcyMjU0.YkUM6w.6QAoB2NtN9mc_7bJ8U618bnDxsk",
+    "prefix": "p!",
+    "version_bot": "v1.5 (BETA)",
+    "guildlink": "https://discord.gg/Wqu4MdFmyX",
+    "invitelink": "https://discord.com/api/oauth2/authorize?client_id=913700803628384306&permissions=8&scope=bot",
+    "commandsHelp": {
+        "helps": ["`help","credits","ping","invite","request","update`"],
+        "funs": ["`meme","seedmc","roll","anime","animechar","animenew","hack","skins","agentval`"],
+        "moneys": ["`cash","give","slots","cfg","level`"],
+        "informations": ["`profile","guild","avatar","covid","svmc","info","perms","skins`"],
+        "others": ["`reminder","math","qrcode","file(premium)","trans","snipe`"],
+        "managers": ["`kick","ban","unban","mute","unmute","lock","unlock","nick","role","clear","badwords","timeout","untimeout`"]
+    },
+    "emojisFun": [":)",":3",":>",":D","OwO","^-^","$_$","ヾ(≧▽≦*)o","(*^▽^*)","o(*≧▽≦)ツ","(/≧▽≦)/","( •̀ ω •́ )y"],
+    "emojisSad": [":c",";-;","._.",":<","-_-",":(","T-T",":[","=(","(┬┬﹏┬┬)","≡(-﹏-)≡","ಥ_ಥ","X﹏X","≧﹏≦","(；′⌒`)"]
+}
